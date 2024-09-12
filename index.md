@@ -4,3 +4,9 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [Friday is tomorrow!]
+- [Then its Saturday]
+- [Lastly, Sunday Funday]
+- [ ] JK- just did bullets. 
+- [ ] See I can do both. 
+- [ ] But need checkboxes instead. 
